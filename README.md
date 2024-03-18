@@ -57,6 +57,15 @@ This repo contain both client and server code. Because in this project i used `P
 ### Gender Distribution
 - Provides bar graph representation of gender distribution across different age groups.
 - Each age group displays three bars representing male, female, and other genders.
+## Demo screenshots
+### live interface and postgresSQL GUI (13 row available in table)
+![Alt text](census_system_1.png)
+### after added latest row i.e Prakash Sharma (14 row present)
+![Alt text](census_system_2.png)
+### trend analysis
+![Alt text](census_system_3.png)
+### live demo video link
+https://www.loom.com/share/33bf97d639da481497514b3703c7b756?sid=152c6629-cc17-4e1e-bc9a-cf4093864b3c
 
 ## References and Resources
 
